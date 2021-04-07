@@ -1,4 +1,5 @@
 # OdevProjesi
  Odev Projesi Baslangıc
 
-odev projesinin readme dosyası oluşturuldu.
+
+merhaba git hub n'aber 
